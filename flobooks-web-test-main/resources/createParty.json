@@ -1,0 +1,20 @@
+[
+    {
+        "name": "testParty",
+        "mobile": "6666666666",
+        "email": "testparty@gmail.com",
+        "openingBalance":"0",
+        "partyType":"customer",
+        "partyCategory": "",
+        "GSTIN": "10AABCU9603R1Z2",
+        "panNumber": "ABCTY1234D",
+        "streetAddress": "3rd Floor, 315 Work Avenue 257, 16th Cross, 5th Main Rd, Sector 6, HSR Layout",
+        "state":"Karnataka",
+        "pincode":"560102",
+        "city":"Bengaluru",
+        "creditPeriod": "30",
+        "creditLimit":"1000000",
+        "addCustomField":true,
+        "customField":"testField"
+    }
+]

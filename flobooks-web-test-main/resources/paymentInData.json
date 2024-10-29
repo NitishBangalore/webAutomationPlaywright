@@ -1,0 +1,30 @@
+[
+    {
+        "number": "8340550193",
+        "otp": "123456",
+        "customSettle": true,
+        "paymentMode": "cash",
+        "notes": " amount settled : "
+    },
+    {
+        "number": "8340550193",
+        "otp": "123456",
+        "customSettle": false,
+        "paymentMode": "bank",
+        "notes": " amount settled : "
+    },
+    {
+        "number": "8340550193",
+        "otp": "123456",
+        "customSettle": true,
+        "paymentMode": "cheque",
+        "notes": "amount settled : "
+    },
+    {
+        "number": "8340550193",
+        "otp": "123456",
+        "customSettle": false,
+        "paymentMode": "cheque",
+        "notes": "amount settled : "
+    }
+]
